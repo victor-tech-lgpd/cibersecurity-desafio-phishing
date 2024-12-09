@@ -17,5 +17,4 @@
 - URL para clone: http://www.facebook.com
 
 ### Resutados
-
-![Alt text](./passwd.png "Optional title")
+![kali](https://github.com/user-attachments/assets/b4fdb731-ec02-4403-b66e-b196565a7b94)
